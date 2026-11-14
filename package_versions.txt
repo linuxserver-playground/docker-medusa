@@ -324,7 +324,7 @@ sratom                  0.6.18-r0         apk
 srt                     3.5.3             python                           
 ssl_client              1.37.0-r30        apk                              
 stable_deref_trait      1.2.0             rust-crate                       
-stevedore               5.9.1             python                           
+stevedore               5.10.0            python                           
 subliminal              2.2.1             python                           
 syn                     2.0.102           rust-crate                       
 tap                     1.0.1             rust-crate                       
